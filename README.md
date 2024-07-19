@@ -1,3 +1,4 @@
 # Kon Banega Crorepati
 This app was built using React js
-![image](https://github.com/user-attachments/assets/2d5343ee-e38c-4e83-bf9f-4499aafac662)
+![Screenshot (255)](https://github.com/user-attachments/assets/e5f4ec67-dc12-41d4-a657-abba54aca06e)
+
